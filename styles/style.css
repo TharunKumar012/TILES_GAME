@@ -1,0 +1,25 @@
+*{
+    color : white;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+header {
+    text-align: center;
+
+}
+body{
+    background-color: rgb(17, 17, 19);
+}
+table{
+    border: 4px  double rgb(8, 231, 45);
+    border-collapse:  collapse;
+    margin: auto ;
+    margin-top: 10em;
+
+}
+
+td{
+    padding: 5em;
+    border: 2px solid rgb(8, 231, 45);
+    background-color: rgb(20, 19, 19);
+}
